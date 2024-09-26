@@ -1,0 +1,55 @@
+.hero {
+	margin-top: 120px;
+}
+
+.aboutMargin {
+	margin-top: 8rem !important;
+}
+/*video*/
+.videoInsert {
+	object-fit: cover;
+	width: 100% !important;
+	height: 100% !important;
+
+}
+/* map location  */
+iframe {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+
+}
+
+/* CSS for invalid input with red border and error message */
+input.is-invalid {
+	border-color: #dc3545;
+}
+
+.invalid-feedback {
+	display: none;
+	color: #dc3545;
+	font-size: 0.875rem;
+	margin-top: 0.25rem;
+}
+
+.invalid-feedback.show {
+	display: block;
+}
+
+.product-image img {
+	width: 250px;
+	height: 350px;
+}
+
+.product-image {
+	border-bottom: 0px;
+}
+
+.saleBanner {
+	background-color: #A9A9A9;
+
+}
+
+.gmap {
+	align-items: center;
+}
